@@ -1,0 +1,4 @@
+name: aks-pvc
+accessMode: ReadWriteOnce
+storageClassName: default
+size: 5Gi
